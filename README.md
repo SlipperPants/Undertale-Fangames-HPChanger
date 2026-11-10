@@ -31,13 +31,13 @@ You don't need to click the app window while playing. Even if the game locks you
 Undertale fan oyunlarında her seferinde Cheat Engine ile uğraşmamak için yaptığım basit bir can (HP) değiştirme aracı. Açtığınız oyunu ve hangi motorla yapıldığını (GameMaker, Clickteam, Unity/CYF, Kristal, Godot) otomatik algılar.
 
 ### Nasıl kullanılır?
-Oyun açıkken programa tıklamanıza gerek yok. Gaster/Sans gibi savaşlarda mouse kilitlense bile oyunun içindeyken direkt klavyeden yapabilirsiniz:
+Oyun açıkken programa tıklamanıza gerek yok. Gaster(call of the voidde yaşadım oyuzden ekledim) gibi savaşlarda mouse kilitlense bile oyunun içindeyken direkt klavyeden yapabilirsiniz:
 
 1. **`V`** tuşuna basıp kutuyu silin, klavyeden o anki canınızı (örn. `92`) tuşlayın.
 2. **`B`** tuşuna basıp ilk taramayı yapın.
 3. Oyunda 1 kere hasar alın.
 4. Tekrar **`V`** basıp yeni düşen canınızı yazın ve **`N`** tuşuna basarak adresi bulun.
-5. **`M`** tuşuna basarak canınızı `99999` yapın.
+5. **`M`** tuşuna basarak canınızı `99999` yapın. veya istediğini seç.
 
 **Ekstra özellikler:**
 * **`O` (Oto-Yenile):** Canı her milisaniye (1ms) yeniler. Maksimum can sınırı (92 sınırı gibi) veya Karma (KR) hasarı olan oyunlarda ölmemek için açabilirsiniz.
